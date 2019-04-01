@@ -1,0 +1,24 @@
+{
+  "name": "portfolio_lastest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eligv99/Portfolio_lastest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eligv99/Portfolio_lastest/issues"
+  },
+  "homepage": "https://github.com/Eligv99/Portfolio_lastest#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
